@@ -113,11 +113,3 @@ PC0 → 192.168.10.1
 PC0 → 192.168.20.10
 PC0 → 192.168.30.10
 PC0 → 192.168.40.10
-
-## Contributors
-
-| Name | Role |
-|---|---|
-| Prapul Rajakumar | Team Lead / Network Design |
-| Praveen Wali | Configuration & Implementation |
-| Manvith Kumar N | Testing & Documentation |
