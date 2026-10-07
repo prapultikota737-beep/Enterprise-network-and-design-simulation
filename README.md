@@ -95,3 +95,17 @@ Router-on-a-Stick
 Conclusion
 
 The project successfully demonstrates the design and implementation of an enterprise network. VLANs provide logical separation between departments, while inter-VLAN routing enables communication between different networks. The network was tested using ping to verify connectivity.
+
+## 👥 Contributors
+
+- **PRAPUL RAJAKUMAR** — Team Lead / Network Design
+- **PRAVEEN WALI** — Configuration & Implementation
+- **MANVITH KUMAR N** — Testing & Documentation
+
+- ## 👥 Contributors
+
+| Name | Role |
+|---|---|
+| PRAPUL RAJAKUMAR | Team Lead / Network Design |
+| PRAVEEN WALI | Configuration & Implementation |
+| MANVITH KUMAR N | Testing & Documentation |
